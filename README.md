@@ -6,4 +6,4 @@
 
 * https://github.com/CatLib/Framework  喵喵大人的框架
 
-* https://github.com/563476223/GameFramework 前端框架集成相对完善
+* https://github.com/EllanJiang/GameFramework 前端框架集成相对完善
