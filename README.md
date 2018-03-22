@@ -9,3 +9,5 @@
 * https://github.com/EllanJiang/GameFramework 前端框架集成相对完善
 
 * https://gitee.com/WenMing_Code/StartForce_LockStep 帧同步例子
+
+* http://puremvc.org/docs/PureMVC_IIBP_Chinese.pdf PureMVC文档
