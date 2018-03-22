@@ -11,3 +11,5 @@
 * https://gitee.com/WenMing_Code/StartForce_LockStep 帧同步例子
 
 * http://puremvc.org/docs/PureMVC_IIBP_Chinese.pdf PureMVC文档
+
+* https://github.com/mr-kelly/KSFramework 整和整套辅助工具集框架
