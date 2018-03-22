@@ -13,3 +13,7 @@
 * http://puremvc.org/docs/PureMVC_IIBP_Chinese.pdf PureMVC文档
 
 * https://github.com/mr-kelly/KSFramework 整和整套辅助工具集框架
+
+* https://github.com/liangxiegame/QFramework 快速开发框架
+
+* https://github.com/egametang/ET 分布式服务器和前端框架
