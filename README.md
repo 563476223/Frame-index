@@ -17,3 +17,10 @@
 * https://github.com/liangxiegame/QFramework 快速开发框架
 
 * https://github.com/egametang/ET 分布式服务器和前端框架
+
+## 模块可参考项目
+* https://github.com/GaoKaiHaHa/MyUnityFrameWork 新手引导
+
+* https://github.com/nashnie/Guide 新手引导
+
+## 工作中有价值的
