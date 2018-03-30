@@ -27,6 +27,8 @@
 
 ### 工作中有价值的
 
+* https://github.com/justjavac/awesome-wechat-weapp 微信小程序
+
 ## cocos2d
 
 
