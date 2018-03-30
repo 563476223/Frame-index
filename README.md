@@ -29,6 +29,8 @@
 
 * https://github.com/justjavac/awesome-wechat-weapp 微信小程序
 
+* https://github.com/opendigg/awesome-github-wechat-weapp 微信小程序
+
 ## cocos2d
 
 
