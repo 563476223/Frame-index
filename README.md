@@ -27,7 +27,7 @@
 
 * https://github.com/nashnie/Guide 新手引导
 
-### 工作中有价值的
+### 参考项目
 
 * https://github.com/justjavac/awesome-wechat-weapp 微信小程序
 
