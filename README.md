@@ -33,6 +33,8 @@
 
 * https://github.com/opendigg/awesome-github-wechat-weapp 微信小程序
 
+* https://github.com/cocos-creator/tutorial-blackjack 微信小程序cocos create
+
 ## cocos2d
 
 
