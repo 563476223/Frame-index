@@ -35,6 +35,8 @@
 
 * https://github.com/cocos-creator/tutorial-blackjack 微信小程序cocos create
 
+* https://github.com/dgflash/CocosCreator_ScriptHotUpdate 热更新
+
 ## cocos2d
 
 
