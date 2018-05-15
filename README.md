@@ -33,9 +33,11 @@
 
 * https://github.com/opendigg/awesome-github-wechat-weapp 微信小程序
 
-* https://github.com/cocos-creator/tutorial-blackjack 微信小程序cocos create
+* https://github.com/cocos-creator/tutorial-blackjack 微信小程序cocos creator
 
-* https://github.com/dgflash/CocosCreator_ScriptHotUpdate 热更新
+* https://github.com/dgflash/CocosCreator_ScriptHotUpdate 热更新cocos creator
+
+* https://github.com/JianghongJohn/cocoscreator-ddz creator 斗地主
 
 ## cocos2d
 
