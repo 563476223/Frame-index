@@ -39,6 +39,8 @@
 
 * https://github.com/JianghongJohn/cocoscreator-ddz creator 斗地主
 
+https://gitee.com/xwintop/wxGameRank 微信小游戏排行榜功能
+
 ## cocos2d
 
 
