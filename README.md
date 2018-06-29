@@ -41,6 +41,9 @@
 
 https://gitee.com/xwintop/wxGameRank 微信小游戏排行榜功能
 
+### 工具
+* https://github.com/garsonlab/FileContentSearch 文件内容搜索
+
 ## cocos2d
 
 
