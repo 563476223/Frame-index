@@ -27,7 +27,9 @@
 
 * https://github.com/nashnie/Guide 新手引导
 
-*https://github.com/li5414/ToolGood.Words  模糊查找
+* https://github.com/li5414/ToolGood.Words  模糊查找
+
+* https://github.com/yimengfan/PosePlus_TBS 回合制策略游戏
 
 ### 参考项目
 
