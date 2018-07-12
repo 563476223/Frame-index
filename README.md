@@ -27,6 +27,8 @@
 
 * https://github.com/nashnie/Guide 新手引导
 
+*https://github.com/li5414/ToolGood.Words  模糊查找
+
 ### 参考项目
 
 * https://github.com/justjavac/awesome-wechat-weapp 微信小程序
