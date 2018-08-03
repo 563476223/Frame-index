@@ -55,4 +55,7 @@
 
 ## cocos2d
 
+## skynet
+* https://github.com/kevinlynx/pigy server
+* http://codemacro.com/2017/12/12/chess-gameserver/ 参考文章
 
