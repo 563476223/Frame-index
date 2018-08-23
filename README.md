@@ -31,9 +31,6 @@
 
 * https://github.com/yimengfan/PosePlus_TBS 回合制策略游戏
 
-* https://github.com/yuanfengyun/mj_server skynet 服务器 + 服务器
-
-* https://github.com/greathqy/mud_build_on_skynet  skynet 服务器使用
 
 ### 参考项目
 
@@ -58,4 +55,7 @@
 ## skynet
 * https://github.com/kevinlynx/pigy server
 * http://codemacro.com/2017/12/12/chess-gameserver/ 参考文章
+* https://github.com/yuanfengyun/mj_server skynet 服务器 + 服务器
+* https://github.com/greathqy/mud_build_on_skynet  skynet 服务器使用
+* https://github.com/zhanjunxiong/RillServer skynet 服务器
 
