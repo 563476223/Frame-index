@@ -31,6 +31,8 @@
 
 * https://github.com/yimengfan/PosePlus_TBS 回合制策略游戏
 
+* https://github.com/yimengfan/PosePlus_FTG 回合制
+
 
 ### 参考项目
 
@@ -45,7 +47,7 @@
 * https://github.com/JianghongJohn/cocoscreator-ddz creator 斗地主
 
 * https://gitee.com/xwintop/wxGameRank 微信小游戏排行榜功能
-* https://github.com/skynetclub
+* https://github.com/skynetclub skynet
 
 ### 工具
 * https://github.com/garsonlab/FileContentSearch 文件内容搜索
