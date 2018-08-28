@@ -5,7 +5,7 @@
 
 * https://github.com/Ourpalm/ILRuntime unity3D 热更新机制
 
-* https://github.com/CatLib/Framework  喵大人的框架
+* https://github.com/CatLib/Framework  前端框架
 
 * https://github.com/EllanJiang/GameFramework 前端框架集成相对完善
 
@@ -62,6 +62,7 @@
 * https://github.com/skynetclub skynet
 * https://github.com/sanikoyes/skynet/tree/vs2013 中文版skynet
 * https://blog.csdn.net/linshuhe1/article/details/70174698 源码阅读
+* http://forthxu.com/blog/skynet.html 分析参考
 
 ## 其他
 
