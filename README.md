@@ -61,6 +61,7 @@
 * https://github.com/zhanjunxiong/RillServer skynet 服务器
 * https://github.com/peimin/skynet_with_comment 中文注释
 * https://github.com/skynetclub skynet
+* https://github.com/sanikoyes/skynet/tree/vs2013 中文版skynet
 
 ## 其他
 * http://www.aigei.com/game-code/code/unity3d/?order=down 源码
