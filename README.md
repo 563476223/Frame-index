@@ -47,7 +47,6 @@
 * https://github.com/JianghongJohn/cocoscreator-ddz creator 斗地主
 
 * https://gitee.com/xwintop/wxGameRank 微信小游戏排行榜功能
-* https://github.com/skynetclub skynet
 
 ### 工具
 * https://github.com/garsonlab/FileContentSearch 文件内容搜索
@@ -60,6 +59,8 @@
 * https://github.com/yuanfengyun/mj_server skynet 服务器 + 服务器
 * https://github.com/greathqy/mud_build_on_skynet  skynet 服务器使用
 * https://github.com/zhanjunxiong/RillServer skynet 服务器
+* https://github.com/peimin/skynet_with_comment 中文注释
+* https://github.com/skynetclub skynet
 
 ## 其他
 * http://www.aigei.com/game-code/code/unity3d/?order=down 源码
