@@ -51,6 +51,7 @@
 ### 工具
 * https://github.com/garsonlab/FileContentSearch 文件内容搜索
 * https://blog.csdn.net/BlueEffie/article/details/49077769 破解u3d游戏
+* https://bbs.pediy.com/thread-216969.htm 解密lua
 
 ## cocos2d
 
