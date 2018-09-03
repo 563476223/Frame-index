@@ -50,6 +50,7 @@
 
 ### 工具
 * https://github.com/garsonlab/FileContentSearch 文件内容搜索
+* https://blog.csdn.net/BlueEffie/article/details/49077769 破解u3d游戏
 
 ## cocos2d
 
