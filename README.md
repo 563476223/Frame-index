@@ -35,18 +35,13 @@
 ### 微信小游戏
 
 * https://github.com/justjavac/awesome-wechat-weapp 微信小程序
-
 * https://github.com/opendigg/awesome-github-wechat-weapp 微信小程序
-
 * https://github.com/cocos-creator/tutorial-blackjack 微信小程序cocos creator
-
 * https://github.com/dgflash/CocosCreator_ScriptHotUpdate 热更新cocos creator
-
 * https://github.com/JianghongJohn/cocoscreator-ddz creator 斗地主
-
 * https://gitee.com/xwintop/wxGameRank 微信小游戏排行榜功能
-
 * https://github.com/sstd521/RabbitGame 完整项目
+* https://www.jianshu.com/p/d5d02988eea4 热更新参考
 
 ### 工具
 * https://github.com/garsonlab/FileContentSearch 文件内容搜索
