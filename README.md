@@ -42,6 +42,7 @@
 * https://gitee.com/xwintop/wxGameRank 微信小游戏排行榜功能
 * https://github.com/sstd521/RabbitGame 完整项目
 * https://www.jianshu.com/p/d5d02988eea4 热更新参考
+* https://blog.csdn.net/haibo19981/article/category/7687841/2 功能博客参考
 
 ### 工具
 * https://github.com/garsonlab/FileContentSearch 文件内容搜索
