@@ -46,6 +46,7 @@
 * https://blog.csdn.net/chao2458/article/details/81381692 获取微信小游戏资源
 * https://github.com/qwerty472123/wxappUnpacker 微信小游戏资源获取
 * http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1989 小程序学习
+* https://github.com/sky068/Wheel_CocosCreator 转盘抽奖
 
 ### 工具
 * https://github.com/garsonlab/FileContentSearch 文件内容搜索
