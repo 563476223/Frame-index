@@ -47,6 +47,7 @@
 * https://github.com/qwerty472123/wxappUnpacker 微信小游戏资源获取
 * http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1989 小程序学习
 * https://github.com/sky068/Wheel_CocosCreator 转盘抽奖
+* https://github.com/cloudfreexiao/skynet-cocos-creator-client pureMVC
 
 ### 工具
 * https://github.com/garsonlab/FileContentSearch 文件内容搜索
