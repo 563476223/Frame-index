@@ -48,6 +48,7 @@
 * http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1989 小程序学习
 * https://github.com/sky068/Wheel_CocosCreator 转盘抽奖
 * https://github.com/cloudfreexiao/skynet-cocos-creator-client pureMVC
+* https://github.com/shangdibaozi/CocosCreatorWebGL/tree/master/assets/Script webGL
 
 ### 工具
 * https://github.com/garsonlab/FileContentSearch 文件内容搜索
