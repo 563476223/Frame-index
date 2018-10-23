@@ -68,5 +68,6 @@
 * https://blog.csdn.net/linshuhe1/article/details/70174698 源码阅读
 * http://forthxu.com/blog/skynet.html 分析参考
 
-## 其他
+## pomelo
+* https://www.tqcto.com/article/software/1208307.html 连接示例
 
