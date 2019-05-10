@@ -74,5 +74,5 @@
 * https://ts.xcatliu.com/basics/union-types.html ts 教程
 
 ## TS
-* https://gitee.com/darkmoon/shader
+* https://gitee.com/darkmoon/shader 水波纹
 
