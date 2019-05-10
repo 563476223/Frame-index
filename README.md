@@ -73,6 +73,7 @@
 ## TypeScript
 * https://ts.xcatliu.com/basics/union-types.html ts 教程
 
-## TS
+## cocos creator
 * https://gitee.com/darkmoon/shader 水波纹特效
+* https://blog.zengrong.net/post/2668.html 项目参考
 
