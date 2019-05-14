@@ -77,3 +77,6 @@
 * https://gitee.com/darkmoon/shader 水波纹特效
 * https://blog.zengrong.net/post/2668.html 项目参考
 
+## ddz
+* https://github.com/qmarliu/ddzlib 癞子牌型
+
