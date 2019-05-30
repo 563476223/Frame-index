@@ -70,6 +70,7 @@
 
 ## pomelo
 * https://www.tqcto.com/article/software/1208307.html 连接示例
+* https://github.com/node-pinus/pinus ts版本的pomelo
 ## TypeScript
 * https://ts.xcatliu.com/basics/union-types.html ts 教程
 
@@ -79,4 +80,5 @@
 
 ## ddz
 * https://github.com/qmarliu/ddzlib 癞子牌型
+
 
