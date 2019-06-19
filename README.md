@@ -81,4 +81,7 @@
 ## ddz
 * https://github.com/qmarliu/ddzlib 癞子牌型
 
+## tbs
+* https://x5.tencent.com/tbs/index.html 网页
+
 
