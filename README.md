@@ -87,5 +87,6 @@
 
 ## cocos 基础模块
 * https://github.com/caochao/cocos_creator_proj_base
+* https://forum.cocos.com/t/cocos-creator-android-2/83154 //Android黑屏
 
 
