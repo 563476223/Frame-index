@@ -85,7 +85,7 @@
 ## tbs
 * https://x5.tencent.com/tbs/index.html 网页
 
-## cocos 基础模块
+## cocos 优化
 * https://github.com/caochao/cocos_creator_proj_base
 * https://forum.cocos.com/t/cocos-creator-android-2/83154 //Android黑屏
 
