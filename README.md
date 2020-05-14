@@ -96,4 +96,7 @@
 * https://www.toolfk.com/tool-encdec-transform 小工具
 * https://github.com/potato47/ccc-devtools 内存工具 cocos creator
 
+# SDK
+* https://forum.cocos.org/t/cocos-creator-sdk/92145 SDK接入指南
+
 1 omg test x'x'x'x'x'x'x'x'x'x'x'x'x'x'x'x'x
