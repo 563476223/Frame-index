@@ -98,5 +98,3 @@
 
 # SDK
 * https://forum.cocos.org/t/cocos-creator-sdk/92145 SDK接入指南
-
-1 omg test x'x'x'x'x'x'x'x'x'x'x'x'x'x'x'x'x
